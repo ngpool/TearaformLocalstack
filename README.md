@@ -1,2 +1,2 @@
-# TearraformLocalstack
+# TerraformLocalstack
 TearaformLocalstack
