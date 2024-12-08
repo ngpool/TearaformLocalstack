@@ -1,2 +1,2 @@
-# TearaformLocalstack
+# TearraformLocalstack
 TearaformLocalstack
